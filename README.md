@@ -1,6 +1,20 @@
 # servika_assignment
 This project provides a set of RESTful APIs to manage products. It allows users to perform CRUD operations on products using endpoints documented through Swagger UI.
 
+#USING GIT COMMAND FOR CREATE NEW REPOSITIRY
+
+#Setting up the Remote Origin 
+git remote add origin https://github.com/gaurukretos/servika_assignment/tree/master
+#For Checking the Current Remote 
+git remote -v 
+#Add the files to the GIT 
+git add . 
+#Commenting the messages on git 
+git commit -m "assignments"
+#Pushing the code on the Remote 
+git push origin master --force
+
+
 #PREREQUISITES
 Prerequisites
 Java 17
